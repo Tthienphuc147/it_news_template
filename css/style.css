@@ -333,12 +333,7 @@ img {
 }
 
 #wrapper .header-container__navigation .nav-container {
-  max-width: 1000px;
   margin: 0 auto;
-}
-
-#wrapper .header-container__navigation nav {
-  float: right;
 }
 
 #wrapper .header-container__navigation nav ul {

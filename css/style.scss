@@ -486,13 +486,12 @@ $link-hover-color: #2581DC;
       
       // Container with no padding for navbar
       .nav-container {
-        max-width: $content-width;
         margin: 0 auto;
       }
       
       // Navigation 
       nav {
-        float: right;
+        
         ul {
           list-style: none;
           margin: 0;
